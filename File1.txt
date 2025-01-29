@@ -2,3 +2,4 @@ Hello.This is Almas Forhadi.I born in Dhaka.
 Now,I am studying in a private university at department of CSE.
 I have completed my HSC in 2020 & SSC in 2017.
 I took a gap before my HSC exam.
+Now,I am learning about git and github for my project submission in online platform.
